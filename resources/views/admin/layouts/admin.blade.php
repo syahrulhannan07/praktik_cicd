@@ -76,7 +76,7 @@
             @csrf
             <button
                 class="absolute bottom-0 w-full upgrade-btn text-white flex items-center justify-center py-4 hover:bg-blue-800 transition">
-                <i class="fas fa-arrow-circle-left mr-2"></i> Sign Out
+                <i class="fas fa-arrow-circle-left mr-2"></i> Log Out
             </button>
         </form>
     </aside>
